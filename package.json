@@ -1,14 +1,15 @@
 {
   "name": "hamsajs",
   "version": "5.5.5",
-  "description": "This project will provied you protection aginst bad eye",
+  "description": "This project will provide you protection against the Bad Eye (BE)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "bad eye",
-    "hamsa"
+    "hamsa",
+    "protection"
   ],
   "author": "Ofir Attal & Guy Ben Moshe",
   "license": "ISC"
