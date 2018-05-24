@@ -33,6 +33,6 @@ Hamsa.js is freely distributable under the terms of the MIT license
 [license-url]: LICENSE
 
 [npm-url]: https://npmjs.org/package/hamsajs
-[npm-version-image]: http://img.shields.io/npm/v/hamsajs.svg?style=flat
-[npm-downloads-image]: http://img.shields.io/npm/dm/hamsajs.svg?style=flat
+[npm-version-image]: https://img.shields.io/npm/v/hamsajs.svg?style=flat
+[npm-downloads-image]: https://img.shields.io/npm/dm/hamsajs.svg?style=flat
 [downloads-url]: https://npmcharts.com/compare/hamsajs?minimal=true
