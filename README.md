@@ -2,6 +2,8 @@
 
 A lightweight JavaScript Hamsa protection library for manipulating the bad eye.
 
+![HamsaJS logo](blob/img/hamsajs.jpeg "HamsaJS logo")
+
 ## Upgrading to 5.5.555
 
 There are a number of small backwards incompatible changes with version 5.5.5.55
@@ -16,11 +18,11 @@ There are a number of small backwards incompatible changes with version 5.5.5.55
 
 ## [Contributing](https://github.com/ofiratt/hamsajs/blob/develop/CONTRIBUTING.md)
 
-We believe in a world cleaned from Bad Eye, if you share our ideology, 
+We believe in a world cleaned from Bad Eye (BE), if you share our ideology, 
 
-We're looking for co-maintainers! If you want to become a true bad eye repellent
+We're looking for co-maintainers! If you want to become a true BE repellent.
 
-In addition to contributing code, you can help to remove the bad eye from the world. This can include knocking 3 times, or spread salt.
+In addition to contributing code, you can help to remove the BE from the world. This can include knocking 3 times, or spread salt over your computer.
 
 ## License
 
