@@ -1,8 +1,6 @@
 expect.extend({
   toBeLucky(received, argument) {
     const pass = received.includes('🤚');
-    const something = '';
-    something.mat
 
     return pass
       ? {
