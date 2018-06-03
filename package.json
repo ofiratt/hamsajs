@@ -4,7 +4,7 @@
   "description": "This project will provide you protection against the Bad Eye (BE)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "bad eye",
@@ -12,5 +12,8 @@
     "protection"
   ],
   "author": "Ofir Attal & Guy Ben Moshe",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
 }
