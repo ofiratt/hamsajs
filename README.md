@@ -2,6 +2,8 @@
 
 A lightweight JavaScript Hamsa protection library for manipulating the bad eye.
 
+[Marketing Video](https://www.youtube.com/watch?v=l6-kloeeJE0)
+
 ![HamsaJS logo](blob/img/hamsajs.jpeg "HamsaJS logo")
 
 ## Upgrading to 5.5.555
